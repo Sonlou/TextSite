@@ -26,7 +26,6 @@ npm run dev
 - TypeScript
 - Vite
 - Tailwind CSS
-- DeepSeek API
 
 ## 📌 Purpose
 TextSite helps users go from concept to working website quickly by describing what they want in plain English.
